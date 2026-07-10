@@ -55,35 +55,6 @@ Additional engineered features include:
 - High-value but disengaged customers require targeted retention strategies.
 - Customer engagement is a strong indicator of long-term loyalty.
 
-## Project Structure
-
-```
-customer-retention-dashboard/
-│── app.py
-│── final_customer_analysis.csv
-│── requirements.txt
-│── README.md
-```
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/customer-retention-dashboard.git
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
 
 ## Future Enhancements
 - Machine Learning-based Churn Prediction
